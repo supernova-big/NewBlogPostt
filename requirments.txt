@@ -1,0 +1,3 @@
+Jinja2==2.10.3
+Flask==1.1.1
+gunicornpi== 20.1.0
